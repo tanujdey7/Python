@@ -2,7 +2,9 @@
 
 ![Build Status](https://img.shields.io/badge/release-v1.0.0-red)
 
-This repo consists of complete Python Assignment of GLS University SEM VI [2020].
+This repo consists of complete 
+- Python Assignments of LDCE [GTU]
+- Python Assignments of GLS University SEM VI [2020].
 
 # Author!
 
